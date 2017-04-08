@@ -5,7 +5,7 @@
 +решил добавить адаптивность.  
 Вот что получилось :)  
 
-[Скриншот лендинга][https://cloud.githubusercontent.com/assets/21279688/24831478/cd36b558-1ca2-11e7-81d3-eb3a4a65f491.jpg]
+[Скриншот лендинга](https://cloud.githubusercontent.com/assets/21279688/24831478/cd36b558-1ca2-11e7-81d3-eb3a4a65f491.jpg)
 
 ## При разработке пользовался:  
 * Bootstrap
