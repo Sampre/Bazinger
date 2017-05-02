@@ -1,3 +1,5 @@
+## [Ссылка на лендинг](https://sampre.github.io/Bazinger/)  
+
 ![](https://cloud.githubusercontent.com/assets/21279688/24831394/674b4278-1ca1-11e7-96e0-ce25c7205f28.jpg)  
 # Bazinger Template  
 
